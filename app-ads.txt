@@ -405,3 +405,4 @@ smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
 smartclip.net, 14679, RESELLER
 pubmatic.com, 166385, RESELLER, 5d62403b186f2ace
 sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+playdigo.com, 1965, RESELLER
